@@ -71,6 +71,12 @@ The notebook contains visualizations such as:
 - Histograms
 - Box Plots
 - Correlation Heatmap
+<img width="923" height="658" alt="Screenshot 2026-07-22 005329" src="https://github.com/user-attachments/assets/c679c9b0-0fc0-4092-aa45-e11249a0ad9c" />
+
+<img width="617" height="322" alt="Screenshot 2026-07-22 005345" src="https://github.com/user-attachments/assets/3c22f79c-1874-4413-ab10-afe3a2335382" />
+
+<img width="927" height="578" alt="image" src="https://github.com/user-attachments/assets/08a647a5-c41e-4ac8-bb61-f66065a85cff" />
+
 
 ---
 
